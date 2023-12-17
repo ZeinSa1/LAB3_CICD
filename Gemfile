@@ -10,4 +10,3 @@ gem 'puma'
 gem 'rubocop'
 gem 'sinatra'
 gem 'slim'
-
