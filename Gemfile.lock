@@ -67,6 +67,7 @@ DEPENDENCIES
   puma
   rubocop
   sinatra
+  sinatra-contrib
   slim
 
 RUBY VERSION
